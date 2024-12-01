@@ -1,6 +1,6 @@
 # !!! DOES NOT WORK PROPERLY !!!
 
-# No Brick Transitions
+## No Brick Transitions
 
 > By Elletra
 
