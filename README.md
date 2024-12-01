@@ -1,6 +1,8 @@
+# !!! This doesn't work properly !!!
+
 # No Brick Transitions
 
-> By Electrk
+> By Elletra
 
 Removes the ugly white flash when planting bricks, the fade when changing a brick's color, and the fade when setting whether a brick is rendering.
 
